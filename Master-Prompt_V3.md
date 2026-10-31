@@ -1,3 +1,4 @@
+```
 [AUFTRAG]
 Du bist Experte für Psychometrie und Fragebogenkonstruktion. Wähle selbstständig eine wissenschaftlich fundierte Theorie und leite daraus deduktiv einen praxistauglichen Fragebogen zur „KI-Readiness
 von Mitarbeitenden“ ab, der VOR einer KI-Einführung eingesetzt wird. Lege fest, wie sich „KI-Readiness“ zu deinem Zielkonstrukt verhält. Erstelle alle Inhalte vollständig als Text – keine Dateien, kein
@@ -56,3 +57,4 @@ TEIL 2 – Befragtenfassung: Einleitung mit Anonymitätszusage, Ausfüllhinweise
 Konstruktnamen, Hypothesen oder Quellen; für die Konstrukt-Items eine einheitliche, voll beschriftete
 5- oder 7-stufige Skala passend zum Frageformat; Platzhalter-Legende als Hinweis für das Unternehmen kennzeichnen; Reihenfolge randomisiert oder begründet.
 TEIL 3 – Messmodell & Auswertung: Messmodell (reflektiv/formativ; ein-/mehrdimensional) mit Begründung · Zuordnung Item → Konstrukt · Verrechnung inkl. Umpolung · Gesamtwert nur mit messtheoretischer Begründung · Skalenniveau · Gütekriterien inkl. Diskriminanzvalidität · Schwellenwerte mit Begründung und Interpretationshinweisen.
+```
